@@ -148,8 +148,3 @@ CheckId(
     (error) => console.log('CheckId ' + error)
 )
 ````
-
-## Usage
-
-See example app at https://github.com/tradle/rnzoomexample
-```
